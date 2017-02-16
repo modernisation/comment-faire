@@ -1,0 +1,42 @@
+---
+layout: default
+additional_css: outil
+---
+
+<section>
+<div class="ui container">
+    <div class="ui six doubling cards">
+
+    {% assign categorized = site.methodes %}
+    {% for methode in categorized %}
+    <a class="card" href="{{ site.baseurl }}/{{methode.id}}.html"> 
+    <div class="image">
+          <img src="{{ site.baseurl }}/img/{{methode.image}}.png">
+        </div>
+      <div class="content">
+      <h3>{{methode.title}}</h3>
+        <div class="description">
+        <p>{{methode.subtitle}}</p>
+        </div>
+      </div>
+    </a>
+    {% endfor %}
+
+        {% assign outils = site.outils %}
+    {% for outil in outils %}
+      <a class="card" href="{{site.baseurl}}/{{outil.id}}.html"> 
+        <div class="image">
+          <img src="{{ site.baseurl }}/img/ressources/{{outil.image}}.jpg">
+        </div>
+        <div class="content">
+          <h3>{{outil.title}}</h3>
+          <div class="description">
+        <p>{{outil.subtitle}}</p>
+        </div>
+        </div>
+      </a>
+    {% endfor %}
+    
+    </div>
+    </div>
+    </section>

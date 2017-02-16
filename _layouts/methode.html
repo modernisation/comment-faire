@@ -1,0 +1,60 @@
+---
+layout: default
+additional_css: methode
+---
+
+
+<section id="mission-statement" class="ui vertical center aligned segment {{ page.type }}">
+  <div class="ui container">
+    <div class="ui grid">
+      <div class="twelve wide centered column">
+        <h1 class="ui inverted header">{{page.title}}</h1>
+        <h2 class="ui inverted header">{{page.subtitle}}</h2>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<div class="ui container">
+  <div class="ui grid">
+    <div class="row">
+      <div class="eleven wide column">       
+        <div>{{content}}</div>        
+      </div>
+
+      <div class="five wide column">
+      {% if page.download %}
+        <h3 class="ui divider horizontal">les outils</h3>
+          <a target="_blank" href="{{ site.baseurl }}/download/{{page.download}}" class="ui medium image"><img src="{{ site.baseurl }}/img/{{page.image|default:image-text}}.png"></a>
+      {% endif %}
+
+
+  {% assign categorized = site.outils | where:"link", page.link %}
+    {% for ressource in categorized %}
+      <h2 class="ui divider horizontal">Pour aller plus loin</h2>
+          <a class="card" href="{{site.baseurl}}/{{ressource.id}}.html"> 
+            <div class="content">
+            <h3>{{ressource.title}}</h3></div>
+            <div class="description">
+            <p>{{ressource.summary}}</p></div>
+          </a>
+{% endfor %} 
+
+      </div>
+
+    </div>
+  </div>
+
+
+
+<div class="ui two top attached buttons">
+  {% if page.previous %} 
+    <div class="ui button"><a href="{{ site.baseurl }}{{page.previous.url}}">&laquo; {{page.previous.title}}</a></div>
+  {% endif %}  
+  {% if page.next%} 
+    <div class="ui button"><a class="next" href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}} &raquo;</a></div>
+  {% endif %} 
+</div>
+
+  </div>

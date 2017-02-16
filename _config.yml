@@ -1,0 +1,16 @@
+
+title: comment-faire.modernisation.gouv.fr
+description: >
+  Des méthodes et outils pour transformer l'action publique
+# Build settings
+markdown: kramdown
+
+baseurl: "/comment-faire"
+
+collections:
+  methodes:
+    output: true
+  outils:
+    output: true
+  articles:
+    output: true

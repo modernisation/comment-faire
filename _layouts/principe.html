@@ -1,0 +1,60 @@
+---
+layout: default
+additional_css: principe
+---
+
+<section id="mission-statement" class="ui vertical center aligned segment {{ page.type }}">
+  <div class="ui container">
+    <div class="ui grid">
+      <div class="twelve wide centered column">
+        <h1 class="ui inverted header">{{page.title}}</h1> 
+        <h2 class="ui inverted header">{{page.subtitle}}</h2>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="ui container ">
+        <h1 class="ui inverted header"></h1>
+
+<h4>{{ content }}</h4>
+
+
+
+
+
+ <section id="ressources" class="ui container">
+  <h2 class="ui divider horizontal">Les étapes</h2>
+  <div class="ui link three stackable cards">
+
+
+{% assign categorized = site.methodes | where:"category", page.category_name %}
+    {% for methode in categorized %}
+    <a class="card" href="{{ site.baseurl }}{{methode.id}}.html"> 
+      <div class="content">
+      <h3>{{methode.title}}</h3>
+        <div class="description">
+        <p>{{methode.subtitle}}</p>
+        </div>
+      </div>
+    </a>
+{% endfor %}
+
+  </div>
+ </section>
+
+<div class="ui two top attached buttons">
+  {% if page.previous %} 
+    <div class="ui button"><a href="{{ site.baseurl }}{{page.previous.url}}">&laquo; {{page.previous.title}}</a></div>
+  {% endif %}  
+  {% if page.next%} 
+    <div class="ui button"><a class="next" href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}} &raquo;</a></div>
+  {% endif %} 
+</div>
+
+
+</div>
+
+
+
+

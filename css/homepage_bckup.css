@@ -1,0 +1,46 @@
+---
+# Homepage pages style
+---
+
+#mission-statement {
+  padding-top: 8%;
+  padding-bottom: 8%;
+  margin-bottom: 4%;
+  background-image: url('{{ site.baseurl }}/img/header.jpg')
+ }
+
+ img {
+    vertical-align: text-top;
+}
+
+#mission-statement h1 {
+  padding: .2em 0;
+  font-size: 200%;
+  line-height: 1.8;
+  letter-spacing: .08em;
+}
+
+.ui.container {
+    display: block;
+    max-width: 100%!important;
+}
+
+
+.ui.segment {
+	text-align: left;
+	color: #ffffff;
+	background-color : #2185d0 !important;
+  text-transform: uppercase;
+}
+
+.fluid.ui {
+  height:50px;
+  text-align: left;
+  color: #ffffff;
+  background-color : #2185d0 !important;
+  text-transform: uppercase;
+}
+
+#presentation {
+  margin-top: 6%;
+}
