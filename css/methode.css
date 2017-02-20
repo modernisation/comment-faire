@@ -2,16 +2,24 @@
   padding-top: 5%;
   padding-bottom: 5%;
   margin-bottom: 5%;
-  background-color: #555;
+  background-color: none;
  }
 
  .ui.cards a.card {
  	border-radius: 0;
  }
 
-  h1.ui.header {
- 	text-transform: uppercase;
+ .icon {
+	float : left;
+
  }
+
+ h1.ui.header {
+ 	text-transform: uppercase;
+ 	color: none ;
+ 	text-align:justify; 
+ }
+
 
  h2.ui.header {
  	font-weight: 400;

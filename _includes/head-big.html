@@ -1,0 +1,149 @@
+<head>
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <!-- Site Properties -->
+  <title>Sticky Example - Semantic</title>
+
+  <link rel="stylesheet" type="text/css" href="dist/components/reset.css">
+  <link rel="stylesheet" type="text/css" href="dist/components/site.css">
+
+  <link rel="stylesheet" type="text/css" href="dist/components/container.css">
+  <link rel="stylesheet" type="text/css" href="dist/components/grid.css">
+  <link rel="stylesheet" type="text/css" href="dist/components/header.css">
+  <link rel="stylesheet" type="text/css" href="dist/components/image.css">
+  <link rel="stylesheet" type="text/css" href="dist/components/menu.css">
+
+  <link rel="stylesheet" type="text/css" href="dist/components/divider.css">
+  <link rel="stylesheet" type="text/css" href="dist/components/list.css">
+  <link rel="stylesheet" type="text/css" href="dist/components/segment.css">
+  <link rel="stylesheet" type="text/css" href="dist/components/dropdown.css">
+  <link rel="stylesheet" type="text/css" href="dist/components/icon.css">
+  <link rel="stylesheet" type="text/css" href="dist/components/transition.css">
+
+  <script src="assets/library/jquery.min.js"></script>
+  <script src="dist/components/transition.js"></script>
+  <script src="dist/components/dropdown.js"></script>
+  <script src="dist/components/visibility.js"></script>
+
+  <link rel="stylesheet" type="text/css" class="ui" href="//cdn.jsdelivr.net/semantic-ui/2.1.8/semantic.min.css">
+  <link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  {% if page.layout != 'default' %}
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/{{ page.layout }}.css">
+  {% endif %}
+   {% if page.additional_css %}
+    <link rel="stylesheet" type="text/css" href="{{ "/css/" | append: page.additional_css | append: ".css" | prepend: site.baseurl }}">
+  {% endif %}
+
+
+  <script>
+  $(document)
+    .ready(function() {
+
+      // fix main menu to page on passing
+      $('.main.menu').visibility({
+        type: 'fixed'
+      });
+      $('.overlay').visibility({
+        type: 'fixed',
+        offset: 80
+      });
+
+      // lazy load images
+      $('.image').visibility({
+        type: 'image',
+        transition: 'vertical flip in',
+        duration: 500
+      });
+
+      // show dropdown on hover
+      $('.main.menu  .ui.dropdown').dropdown({
+        on: 'hover'
+      });
+    })
+  ;
+  </script>
+
+  <style type="text/css">
+
+  body {
+    background-color: #FFFFFF;
+  }
+  .main.container {
+    margin-top: 2em;
+  }
+
+  .main.menu {
+    margin-top: 4em;
+    border-radius: 0;
+    border: none;
+    box-shadow: none;
+    transition:
+      box-shadow 0.5s ease,
+      padding 0.5s ease
+    ;
+  }
+  .main.menu .item img.logo {
+    margin-right: 1.5em;
+  }
+
+  .overlay {
+    float: left;
+    margin: 0em 3em 1em 0em;
+  }
+  .overlay .menu {
+    position: relative;
+    left: 0;
+    transition: left 0.5s ease;
+  }
+
+  .main.menu.fixed {
+    background-color: #FFFFFF;
+    border: 1px solid #DDD;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+  }
+  .overlay.fixed .menu {
+    left: 800px;
+  }
+
+  .text.container .left.floated.image {
+    margin: 2em 2em 2em -4em;
+  }
+  .text.container .right.floated.image {
+    margin: 2em -4em 2em 2em;
+  }
+
+  .ui.footer.segment {
+    margin: 5em 0em 0em;
+    padding: 5em 0em;
+  }
+  </style>
+
+</head>
+
+<body>
+
+<section id="mission-statement" class="ui vertical center aligned segment">
+  <div class="ui text container">
+  <h1 id="logo">{{ site.description }}</h1>
+<p>{{page.intro}}</p>
+  <center><img src="{{ site.baseurl }}/img/banner_demarche_line.png"></center>
+  </div>
+  </section>
+
+<section id="nav-box" class="ui borderless main menu">
+<div class="ui fluid six item menu">
+      <ul>
+      <li><a href="#" class="header item"><img class="logo" src="img/marianne.svg"></a></li>
+      <li><a href="{{ site.baseurl }}/methodes/01_demarrage" class="demarrage"><strong>Démarrer son projet</strong></br>Bien définir le défi à relever</a></li>
+      <li><a href="#" class="decouverte"><strong>Comprendre ses usagers</strong></br>Observer et découvrir qui ils sont</a></li>
+      <li><a href="#" class="conception"><strong>Concevoir une solution</strong></br>Passer de l'idée au prototype</a></li>
+      <li><a href="#" class="experimentation"><strong>Expérimenter une solution</strong></br>tester et faire évoluer</a></li>
+      <li><a href="#" class="deploiement"><strong>Déployer son projet</strong></br>Mettre en oeuvre et faire vivre</a></li>
+      </ul>
+</div>
+  </section>
+
+  </body>

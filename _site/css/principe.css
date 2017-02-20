@@ -9,8 +9,15 @@
  	border-radius: 0;
  }
 
+ .icon {
+	float : left;
+
+ }
+
  h1.ui.header {
  	text-transform: uppercase;
+ 	color: none ;
+ 	text-align:justify; 
  }
 
  h2.ui.header {
