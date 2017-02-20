@@ -5,7 +5,7 @@ description: >
 # Build settings
 markdown: kramdown
 
-baseurl: "comment-faire.modernisation.gouv.fr/"
+baseurl: ""
 
 collections:
   methodes:
