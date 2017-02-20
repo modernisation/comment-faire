@@ -14,3 +14,4 @@ collections:
     output: true
   articles:
     output: true
+theme: jekyll-theme-minimal
