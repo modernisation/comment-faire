@@ -32,13 +32,13 @@ additional_css: methode
 
 
   {% assign categorized = site.outils | where:"link", page.link %}
-    {% for ressource in categorized %}
+    {% for outil in categorized %}
       <h2 class="ui divider horizontal">Pour aller plus loin</h2>
-          <a class="card" href="{{site.baseurl}}/{{ressource.id}}.html"> 
+          <a class="card" href="{{ site.baseurl }}/outils/{{ressource.id}}"> 
             <div class="content">
-            <h3>{{ressource.title}}</h3></div>
+            <h3>{{outil.title}}</h3></div>
             <div class="description">
-            <p>{{ressource.summary}}</p></div>
+            <p>{{outi.summary}}</p></div>
           </a>
 {% endfor %} 
 
