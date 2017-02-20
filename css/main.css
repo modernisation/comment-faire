@@ -161,15 +161,6 @@ blockquote {
   color: #FE7826;
  }
 
- /* #nav-box .demarrage {
-  color: #FE7826;
-  padding-top: 4em;
-  background-image: url(/mapstore/img/icons/icon_pen.png);
-  background-repeat: no-repeat;
-  background-size: initial;
-  background-position-x: center;
- } */
-
 #nav-box li a.demarrage:hover{
   border-bottom: 5px solid #FE7826;
  }
