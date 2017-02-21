@@ -2,13 +2,13 @@
 layout: principe
 additional_css: section_decouverte
 category_name: decouverte
-title: Comprendre les usagers
-subtitle: Observer et découvrir qui ils sont
+title: Comprendre ses usagers et leurs usages
+subtitle: Observer, découvrir, interroger et analyser
 image: 
 ---
 
-Concevoir un service pertinent requiert de comprendre finement les comportements et les attentes des usagers. Vos usagers peuvent être internes ou externes à votre organisation, selon que le service soit destiné à des citoyens, des agents publics ou des partenaires.
+Connaître ses usagers et leurs usages est indispensable pour concevoir un service. Votre solution est précisément conçue pour répondre aux besoins d’un usager ou d’un agent, pour s’ajuster à son comportement, à ses pratiques, pour répondre à des attentes. Si votre solution ne satisfait aucun besoin ou demeure inaccessible à ceux auxquels elle est destinée, ce sera faute d’avoir suffisamment écouté vos usagers ou d’avoir préjugé de leurs attentes. 
 
-Les usages et le comportement des usagers évoluent rapidement sous l’effet des transformations sociales et technologiques. Connaître ses usagers est alors une nécessité qui s’impose quel que soit le stade de développement de votre service pour que les solutions rencontrent un besoin réel.
+De nombreuses méthodes existent pour développer la compréhension des déterminants et des besoins d’un usager interne comme externe. Selon la nature de votre projet, choisissez celles qui sont les plus appropriées et partagez vos conclusions le plus largement possible.    
 
 Les informations que vous collecterez au fil des observations et entretiens vous guideront lors de la conception.

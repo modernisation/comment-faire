@@ -50,76 +50,9 @@
         type: 'fixed',
         offset: 80
       });
-
-      // lazy load images
-      $('.image').visibility({
-        type: 'image',
-        transition: 'vertical flip in',
-        duration: 500
-      });
-
-      // show dropdown on hover
-      $('.main.menu  .ui.dropdown').dropdown({
-        on: 'hover'
-      });
     })
   ;
   </script>
-
-  <style type="text/css">
-
-  body {
-    background-color: #FFFFFF;
-  }
-  .main.container {
-    margin-top: 2em;
-  }
-
-  .main.menu {
-    margin-top: 4em;
-    border-radius: 0;
-    border: none;
-    box-shadow: none;
-    transition:
-      box-shadow 0.5s ease,
-      padding 0.5s ease
-    ;
-  }
-  .main.menu .item img.logo {
-    margin-right: 1.5em;
-  }
-
-  .overlay {
-    float: left;
-    margin: 0em 3em 1em 0em;
-  }
-  .overlay .menu {
-    position: relative;
-    left: 0;
-    transition: left 0.5s ease;
-  }
-
-  .main.menu.fixed {
-    background-color: #FFFFFF;
-    border: 1px solid #DDD;
-    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
-  }
-  .overlay.fixed .menu {
-    left: 800px;
-  }
-
-  .text.container .left.floated.image {
-    margin: 2em 2em 2em -4em;
-  }
-  .text.container .right.floated.image {
-    margin: 2em -4em 2em 2em;
-  }
-
-  .ui.footer.segment {
-    margin: 5em 0em 0em;
-    padding: 5em 0em;
-  }
-  </style>
 
 </head>
 
@@ -127,7 +60,9 @@
 
 <section id="mission-statement" class="ui vertical center aligned segment">
   <div class="ui text container">
+  <center><img class="ui medium image" src="{{ site.baseurl }}/img/CF_logo.svg"></center>
   <h1 id="logo">{{ site.description }}</h1>
+  <h2>{{page.content}}</h2>
   <center><img src="{{ site.baseurl }}/img/banner_demarche_line.png"></center>
   </div>
   </section>
@@ -139,8 +74,8 @@
       <li><a href="{{ site.baseurl }}/methodes/01_demarrage" class="demarrage"><strong>Démarrer son projet</strong></br>Bien définir le défi à relever</a></li>
       <li><a href="{{ site.baseurl }}/methodes/04_decouverte" class="decouverte"><strong>Comprendre ses usagers</strong></br>Observer et découvrir qui ils sont</a></li>
       <li><a href="{{ site.baseurl }}/methodes/07_conception" class="conception"><strong>Concevoir une solution</strong></br>Passer de l'idée au prototype</a></li>
-      <li><a href="{{ site.baseurl }}/methodes/10_experimentation" class="experimentation"><strong>Expérimenter une solution</strong></br>tester et faire évoluer</a></li>
-      <li><a href="{{ site.baseurl }}/methodes/14_deploiement" class="deploiement"><strong>Déployer son projet</strong></br>Mettre en oeuvre et faire vivre</a></li>
+      <li><a href="{{ site.baseurl }}/methodes/11_experimentation" class="experimentation"><strong>Expérimenter une solution</strong></br>tester et faire évoluer</a></li>
+      <li><a href="{{ site.baseurl }}/methodes/15_deploiement" class="deploiement"><strong>Déployer son projet</strong></br>Mettre en oeuvre et faire vivre</a></li>
       </ul>
 </div>
   </section>

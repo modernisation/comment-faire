@@ -53,76 +53,9 @@
         type: 'fixed',
         offset: 80
       });
-
-      // lazy load images
-      $('.image').visibility({
-        type: 'image',
-        transition: 'vertical flip in',
-        duration: 500
-      });
-
-      // show dropdown on hover
-      $('.main.menu  .ui.dropdown').dropdown({
-        on: 'hover'
-      });
     })
   ;
   </script>
-
-  <style type="text/css">
-
-  body {
-    background-color: #FFFFFF;
-  }
-  .main.container {
-    margin-top: 2em;
-  }
-
-  .main.menu {
-    margin-top: 4em;
-    border-radius: 0;
-    border: none;
-    box-shadow: none;
-    transition:
-      box-shadow 0.5s ease,
-      padding 0.5s ease
-    ;
-  }
-  .main.menu .item img.logo {
-    margin-right: 1.5em;
-  }
-
-  .overlay {
-    float: left;
-    margin: 0em 3em 1em 0em;
-  }
-  .overlay .menu {
-    position: relative;
-    left: 0;
-    transition: left 0.5s ease;
-  }
-
-  .main.menu.fixed {
-    background-color: #FFFFFF;
-    border: 1px solid #DDD;
-    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
-  }
-  .overlay.fixed .menu {
-    left: 800px;
-  }
-
-  .text.container .left.floated.image {
-    margin: 2em 2em 2em -4em;
-  }
-  .text.container .right.floated.image {
-    margin: 2em -4em 2em 2em;
-  }
-
-  .ui.footer.segment {
-    margin: 5em 0em 0em;
-    padding: 5em 0em;
-  }
-  </style>
 
 </head>
 
@@ -130,8 +63,64 @@
 
 <section id="mission-statement" class="ui vertical center aligned segment">
   <div class="ui text container">
-  <h1 id="logo">Des méthodes et outils pour transformer l'action publique
+  <center><img class="ui medium image" src="/img/CF_logo.svg"></center>
+  <h1 id="logo">Réussir mon projet de conception de service public
 </h1>
+  <h2><section id="mission-statement" class="ui vertical center aligned segment">
+  <div class="ui text container">
+  <h1 id="logo">Réussir mon projet de conception de service public
+</h1>
+  <div class="tagline"></div>
+<h2 class="ui inverted header">
+Que vous conceviez ou amélioriez des services, des outils numériques, des espaces physiques, ou encore des processus internes, vous trouverez dans cette boîte à outils les ressources pour le faire de façon innovante et pertinente pour vos usagers.</br>
+Mapstore, c'est un état d'esprit : c'est être convaincu que vous pouvez changer les choses avec des méthodes impliquantes, collaboratives, et créatives.</p>
+</div>
+  <center><img src="/img/banner_demarche_line.png"></center>
+  </section>
+  
+    <section id="nav-box">
+    <div class="ui fluid five item menu">
+  <ul>
+  <li><a class="demarrage" href="/methodes/01_demarrage"><strong>Démarrer son projet</strong></br>Bien définir le défi à relever</a></li>
+  <li><a class="decouverte" href="/methodes/04_decouverte"><strong>Comprendre ses usagers</strong></br>Observer et découvrir qui ils sont</a></li>
+  <li><a class="conception" href="/methodes/07_conception"><strong>Concevoir une solution</strong></br>Passer de l'idée au prototype</a></li>
+  <li><a class="experimentation" href="/methodes/10_experimentation"><strong>Expérimenter une solution</strong></br>tester et faire évoluer</a></li>
+  <li><a class="deploiement" href="/methodes/14_deploiement"><strong>Déployer son projet</strong></br>Mettre en oeuvre et faire vivre</a></li>
+  </ul>
+</div>
+ </section>
+
+
+<section id="entrees">
+<h2 class="ui divider horizontal">Comment ce kit projet peut m'aider ?</h2>
+  <div class="ui text container">
+  <div class="ui two stackable cards">
+  <div class="card">
+ Je démarre un projet
+  </div>
+  <div class="card">
+ J'ai besoin de comprendre mon public
+  </div>
+  <div class="card">
+ Je veux animer une séance de créativité
+  </div>
+  <div class="card">
+ Je veux améliorer un service numérique
+  </div>
+  <div class="card">
+ J'ai un projet, je veux convaincre mes collègues
+  </div>
+</div>
+</div>
+</section>
+
+<section id="other-ressources">
+<h2 class="ui divider horizontal">toutes les ressources</h2>
+  <div class="ui container">
+  <p>Mapstore vous oriente vers les guides et ressources nécessaires en fonction de l'avancée et des besoins de vos projets.</p>
+    <a href="/toutes-les-ressources" ><button class="ui button" >Explorer toutes les ressources</button></a>
+  </div>
+</section></h2>
   <center><img src="/img/banner_demarche_line.png"></center>
   </div>
   </section>
@@ -143,8 +132,8 @@
       <li><a href="/methodes/01_demarrage" class="demarrage"><strong>Démarrer son projet</strong></br>Bien définir le défi à relever</a></li>
       <li><a href="/methodes/04_decouverte" class="decouverte"><strong>Comprendre ses usagers</strong></br>Observer et découvrir qui ils sont</a></li>
       <li><a href="/methodes/07_conception" class="conception"><strong>Concevoir une solution</strong></br>Passer de l'idée au prototype</a></li>
-      <li><a href="/methodes/10_experimentation" class="experimentation"><strong>Expérimenter une solution</strong></br>tester et faire évoluer</a></li>
-      <li><a href="/methodes/14_deploiement" class="deploiement"><strong>Déployer son projet</strong></br>Mettre en oeuvre et faire vivre</a></li>
+      <li><a href="/methodes/11_experimentation" class="experimentation"><strong>Expérimenter une solution</strong></br>tester et faire évoluer</a></li>
+      <li><a href="/methodes/15_deploiement" class="deploiement"><strong>Déployer son projet</strong></br>Mettre en oeuvre et faire vivre</a></li>
       </ul>
 </div>
   </section>
@@ -156,7 +145,7 @@
 <div class="ui text container">
   <p><section id="mission-statement" class="ui vertical center aligned segment">
   <div class="ui text container">
-  <h1 id="logo">Des méthodes et outils pour transformer l'action publique
+  <h1 id="logo">Réussir mon projet de conception de service public
 </h1>
   <div class="tagline"></div>
 <h2 class="ui inverted header">

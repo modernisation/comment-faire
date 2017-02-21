@@ -2,31 +2,26 @@
 layout: methode
 additional_css: section_demarrage
 category: demarrage
-title: Organiser ses connaissances sur le sujet
+title: Mobiliser les connaissances disponibles 
 subtitle: Réunir ce que l'on sait du sujet pour préparer les recherches à entreprendre
 image: mapstore_demarrage_connaissance
 download: Mapstore_demarrage_connaissance.pdf
+intro: Si vous êtes confrontés à un problème, il y a fort à parier que d’autres le sont aussi. On ne part jamais de rien. Mobilisez les connaissances existantes, soyez curieux, explorez les réponses apportées par d’autres à des problèmes similaires, inspirez-vous d’autres initiatives, regardez comment ils abordent le sujet.  
 ---
 
-L’inspiration est le carburant de vos idées. Dans cette partie, répertoriez vos connaissances, identifiez vos sources d’inspiration, exposez vos intuitions et préparez le travail de recherche sur le terrain. 
+### Organisez un groupe de travail ouvert 
+Si ce n’est déjà fait, il est temps d’initier un groupe de travail que vous réunirez périodiquement pour décider des orientations du projet. Ce groupe mobilise les personnes intéressées par le projet, ceux qui disposent de connaissances, théoriques ou pratiques, et surtout des clients et partenaires de la solution que vous souhaitez concevoir. Ne contraignez personne à y participez, convainquez-les.  
 
-### Sélectionner les participants à la recherche
-Les personnes sont souvent la meilleure source de connaissance. Identifiez les profils de celles qui détiennent la connaissance sur votre sujet (par exemple quelqu'un au contact des usagers), et recensez ce qu'elles savent déjà. Cela vous aidera à avancer dans la constitution de votre future équipe projet. 
+### Valorisez les connaissances internes 
+Les agents au contact des usagers, par leur activité et leurs échanges réguliers, ont une connaissance empirique des problèmes que les usagers rencontrent, de leurs causes et de comment ces difficultés se manifestent. Ne vous privez pas de ce savoir : associez-les à votre groupe de travail, interrogez-les et discutez avec eux de vos hypothèses.    
 
-Pour cette étape, n'hésitez pas à questionner, rencontrer et discuter avec les personnes que vous identifierez. 
+### Documentez-vous 
+Le problème que vous vous êtes donné pour objectif de résoudre a probablement été l’objet d’études et de recherches de la part de chercheurs, d’experts, de collectifs citoyens... Quelles analyses dressent-ils de la situation ? Quel est leur diagnostic ? Quelles réponses préconisent-ils ? 
 
-### Interroger vos pairs
-Partagez vos points de vue, votre expérience et vos envies avec vos pairs. Ces échanges vous permettront d'envisager de nouvelles pistes, peut-être déjà expérimentées ailleurs, et recueillir un retour d'expérience précieux pour la suite de votre projet. 
-Par exemple, cela peut-être votre homologue dans une administration différente. 
+### Identifiez des initiatives inspirantes 
+Le problème que vous affronté a sans doute déjà été surmonté par d’autres, pour partie au moins. D’autres organisations ne le rencontrent pas. Cherchez à savoir comment et pourquoi. Identifiez les organisations les plus innovantes, les plus en pointe, sur le sujet : faîtes l’expérience de leur service dès lors que c’est possible. Prenez contact avec eux et interrogez-les sur les transformations qu’ils ont mises en œuvre pour parvenir à ce résultat. Elargissez le champ de vos investigations : l’inspiration se loge aussi dans des environnements culturels éloignés des vôtres : administrations étrangères, secteur privé ou associatif, etc…  
+### Echangez avec vos homologues 
+Une communauté professionnelle est le moyen de progresser collectivement plus rapidement sur les problèmes auxquels vous êtes confrontés. Partagez vos diagnostics et vos embryons de solutions pour vous inspirer mutuellement.  
 
-### Consulter les experts 
-Les experts peuvent être une source d'inspiration riche sur votre sujet, surtout si vous avez besoin d'apprendre beaucoup en peu de temps.
-
-### Chercher de l'inspiration dans des situations analogues
-Cherchez l'inspiration autour de vous, dans votre écosystème, et surtout en dehors, vous ouvrira l'esprit et vous fera voir la situation sous un autre angle. Osez sortir de votre zone de confort, même si vous ne comprenez pas tout de suite comment mettre en pratique vos observations. 
- 
-### Utiliser la documentation
-Documentez-vous le plus possible sur votre sujet. Ouvrages, thèses, notes, témoignages, images, toutes les informations récoltées vous aideront à identifier les éléments à prendre en compte pour atteindre vos objectifs et à être créatifs dans les solutions envisagées. Pour se documenter, il y a bien sûr internet, également, pensez aux centres de documentation spécialisés ou autres lieux hors administration. 
-
-### Compiler vos apprentissages
-Prenez le temps d'associer les éléments intéressants récoltés à ceux de votre objectif et identifier ce qu'il vous manque pour préparer les recherches de terrain de la phase suivante. 
+### Partagez vos enseignements 
+Les enseignements que chaque membre de votre groupe de travail glane à mesure de ses lectures, de ses rencontres, de ses visites, doivent être partagés lors des réunions de façon à s’enrichir mutuellement dans une dynamique d’intelligence collective et converger sur l’analyse du problème.

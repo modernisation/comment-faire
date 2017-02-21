@@ -6,20 +6,11 @@
 
 body {
 	color: #404759;
+  line-height: 1;
 }
-
 
 p {
 	font-size: 1.2em;
-}
-
-header {
-	background-image: url({{ site.baseurl }}/img/marianne.svg);
-	background-repeat: no-repeat;
-	background-size: contain;
-	background-position: .8em;
-	background-color: #fff;
-	height: 3em;
 }
 
 header img {
@@ -29,7 +20,8 @@ header img {
 	margin-right: .8em;
 }
 
-.footer.segment {
+.ui.footer.segment {
+      margin: 0;
       padding: 5em 0em;
     }
 
@@ -43,7 +35,6 @@ h1 {
 
 h4 {
 	font-size: 1.4em;
-	font-weight: lighter;
 }
 
 div {

@@ -3,22 +3,24 @@ layout: methode
 additional_css: section_demarrage
 category: demarrage
 title: Bien formuler son objectif
-subtitle: Clarifier les enjeux de votre projet pour identifier les opportunités qui s'en dégage
+subtitle: Déterminer un objectif pertinent pour ne jamais s’en détourner
 image: mapstore_demarrage_objectif
 download: Mapstore_demarrage_objectif.pdf 
+intro: Initier un projet commence par se donner un objectif clair en réponse à un problème, à un dysfonctionnement, à un irritant. Un projet ne se mène pas seul. Il agrège une équipe, des contributeurs, des soutiens, des contradicteurs et des parties prenantes. Parvenir à une formulation claire et fédératrice des objectifs du projet est la première étape pour s’adjoindre les bonnes volontés et guider vos travaux. 
 ---
 
-Réfléchissez à ce qui vous pousse à atteindre votre objectif. Que voulez-vous produire ? Où espérez-vous arriver ? Quels résultats attendez-vous ? Un objectif clairement défini vous aidera à rester sur les rails et à atteindre des résultats concrets.
+### Définissez un objectif sur la base d’un problème à résoudre
+Démarrez votre projet en énonçant clairement le problème, le dysfonctionnement ou l’irritant que vous souhaitez résoudre. Si vous n’identifiez pas de problèmes réels, interrogez-vous sérieusement sur la pertinence de lancer ce projet. Un projet débute par la volonté sincère de corriger une situation insatisfaisante, qu’elle soit subie par des usagers ou des agents publics, non par une idée préconçue de solution à apporter.  
 
-### Choisir la promesse de votre projet
-Rédigez un bref récapitulatif du projet et de l'objectif que vous souhaitez atteindre. Faites comme si vous les présentiez à quelqu'un pour le convaincre de collaborer. Par exemple, expliquez le dysfonctionnement identifié et les opportunités que votre projet représente. 
+### Adoptez le point de vue de l’usager
+Afin de bien circonscrire le problème auquel vous souhaitez répondre, formulez-le du point de vue de l’usager, que cet usager soit interne ou externe à l’administration. Si vous n’identifiez pas d’usagers ou de bénéficiaires dont la situation s’améliorerait une fois le problème résolu, à nouveau, interrogez-vous sérieusement sur la pertinence de lancer ce projet.  
 
-### Détailler les résultats attendus
-Pour illustrer la promesse de votre projet, décrivez la situation idéale créée par le succès votre projet. Quels sont les résultats attendus et comment se concrétisent-ils ?
+### Définissez un horizon désirable 
+En contrepoint à la situation problématique de l’usager que vous avez décrite, décrivez quelle serait une situation idéale dans laquelle le problème aurait été surmonté. 
 
-### Définir un objectif précis
-Si vous envisagez de créer une solution pour votre entité, les essais et la mise en place pourront être simples. Parfois, le projet dépasse vos compétences directes, ou implique beaucoup de monde. Dans ce cas, l'objectif peut consister à rédiger un argumentaire pour donner aux autres l'envie de vous accompagner dans la réalisation de votre idée. 
+### Donnez un objectif à votre projet, pas deux
+En réponse au problème identifié, votre objectif consiste donc à concevoir une solution qui permettrait d’aller de la situation existante que vous avez définie à l’horizon que vous avez tracé. Autant que possible, formulez cet objectif de façon claire, directe et engageante : « comment faire pour que chaque individu reçoive les aides sociales auxquelles il a droit ? » par exemple. 
+Ne multipliez pas les objectifs, ni les problèmes auxquels votre projet entend répondre. Vos efforts doivent être tendus vers ce seul objectif : les objectifs complémentaires qu’on ne manquera pas d’adjoindre à votre projet doivent lui être subordonnés.
 
-### Répertorier les contraintes
-Il est indispensable de repérer les contraintes auxquelles s'expose votre projet. Faut-il respecter un calendrier ? Que vous manque-t-il ? Qui pourrait s’y opposer ? Quel obstacle va être le difficile à surmonter ? 
-Dressez la liste des contraintes liées à votre projet. Ne soyez pas découragé par cette liste ! Identifier ces contraintes en amont vous aidera à les contourner.
+### Consignez vos convictions dans un document à partager : 
+En quelques lignes, rassemblez ces convictions : le problème que vous allez résoudre, les usagers ou les agents auxquels s’adressera votre solution et l’objectif que vous vous êtes fixés. Ce document constitue le cahier des charges de votre projet. Revenez-y autant de fois que nécessaire lors de votre projet et partagez-le largement pour expliquer votre projet. 

@@ -1,5 +1,6 @@
 #mission-statement {
-  background-color: #404759;
+  background-color: #5b617f;
+  border: none;
  }
 
  img {
@@ -8,10 +9,13 @@
 }
 
 #mission-statement h1 {
-  padding: .8em 0;
-  font-size: 180%;
+  font-size: 150%;
   line-height: 1.8;
-  letter-spacing: .04em;
+}
+
+#mission-statement h2 {
+  font-weight: normal;
+  line-height: 1.2;
 }
 
 .ui.container {
@@ -23,8 +27,7 @@
 .ui.segment {
 	text-align: left;
 	color: #ffffff;
-	background-color : #1F283D !important;
-  text-transform: uppercase;
+	background-color : #5b617f !important;
 }
 
 #presentation {

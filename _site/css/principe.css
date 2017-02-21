@@ -5,6 +5,10 @@
   background-color: #555;
  }
 
+ #mission-statement img {
+ 	float : left;
+ }
+
  .ui.cards a.card {
  	border-radius: 0;
  }
