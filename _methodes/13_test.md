@@ -4,8 +4,8 @@ additional_css: section_experimentation
 category: experimentation
 title: Tester un prototype 
 subtitle: Collecter des retours pour améliorer une solution jusqu’à l’aboutissement d’une version robuste
-image: mapstore_experimentation_test
-download: Mapstore_experimentation_test.pdf
+image: CF_experimentation_test
+download: CF_experimentation_test.pdf
 intro: Un prototype vous permet de tester rapidement votre solution auprès de ses usagers et des agents qui la mettront en œuvre. En répétant ces tests, vous obtiendrez de précieux enseignements qui vous permettront de concevoir une solution qui satisfasse vos usagers et soit réaliste à mettre en œuvre.
 ---
 

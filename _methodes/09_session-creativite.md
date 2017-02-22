@@ -4,8 +4,8 @@ additional_css: section_conception
 category: conception
 title: Animer une session de créativité
 subtitle: Mobiliser l’intelligence collective pour des trouver des idées de solutions innovantes
-image: mapstore_conception_sessioncreativite
-download: Mapstore_conception_sessioncreativite.pdf
+image: CF_conception_sessioncreativite
+download: CF_conception_sessioncreativite.pdf
 intro: Un atelier de créativité permet de mobiliser l’intelligence collective autour de la résolution d’un problème et l’identification de solutions dans un temps réduit. C’est un bon moyen pour générer des idées pertinentes de solutions et raviver l’énergie de votre équipe. Avec une préparation soigneuse et un ensemble de règles claires, un atelier de créativité peut faire émerger de nombreuses nouvelles idées. Sélectionnez les meilleures d’entre elles, approfondissez et combinez-les pour concevoir votre solution. 
 Laissez libre cours à l’imagination des participants, ne censurez pas leurs idées : les solutions novatrices naissent souvent des idées les plus décalées.
 ---

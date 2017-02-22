@@ -4,8 +4,8 @@ additional_css: section_conception
 category: conception
 title: Approfondir les idées de solution les plus prometteuses
 subtitle: Passer d'une idée à un concept de solution
-image: mapstore_conception_idee
-download: Mapstore_conception_idee
+image: CF_conception_idee
+download: CF_conception_idee.pdf
 intro: Grace aux ateliers de co-conception que vous avez organisés, vous disposez d’idées de solution innovantes susceptibles de répondre à l’objectif de votre projet. Dès lors qu’elles seront approfondies, vous disposerez d’un véritable concept de solution, assorti d’un récit pour le présenter et recueillir les observations de tous les acteurs de votre future solution. 
 ---
 
