@@ -1,5 +1,5 @@
 #mission-statement {
-  background-color: #5b617f;
+  background-color: #212856;
   border: none;
  }
 
@@ -27,7 +27,6 @@
 .ui.segment {
 	text-align: left;
 	color: #ffffff;
-	background-color : #5b617f !important;
 }
 
 #presentation {
