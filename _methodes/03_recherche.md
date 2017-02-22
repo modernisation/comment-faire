@@ -4,8 +4,8 @@ additional_css: section_demarrage
 category: demarrage
 title: Mobiliser les connaissances disponibles 
 subtitle: Réunir ce que l'on sait du sujet pour préparer les recherches à entreprendre
-image: mapstore_demarrage_connaissance
-download: Mapstore_demarrage_connaissance.pdf
+image: CF_demarrage_connaissance
+download: CF_demarrage_connaissance.pdf
 intro: Si vous êtes confrontés à un problème, il y a fort à parier que d’autres le sont aussi. On ne part jamais de rien. Mobilisez les connaissances existantes, soyez curieux, explorez les réponses apportées par d’autres à des problèmes similaires, inspirez-vous d’autres initiatives, regardez comment ils abordent le sujet.  
 ---
 
