@@ -52,13 +52,13 @@ additional_css: methode
 
 
 
-<div class="ui two top attached buttons">
+<section id="nav-pages" class="ui two top attached buttons">
   {% if page.previous %} 
     <div class="ui button"><a href="{{ site.baseurl }}{{page.previous.url}}">&laquo; {{page.previous.title}}</a></div>
   {% endif %}  
   {% if page.next%} 
     <div class="ui button"><a class="next" href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}} &raquo;</a></div>
   {% endif %} 
-</div>
+</section>
 
   </div>
