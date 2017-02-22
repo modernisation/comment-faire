@@ -4,8 +4,8 @@ category: deploiement
 link: deployer
 title: Raconter la solution pour fédérer
 subtitle: Bien présenter les objectifs et enjeux de votre pour projet pour convaincre
-image: mapstore_decouverte_personas
-download: Mapstore_decouverte_personas.pdf
+image: 
+download: 
 
 utilisation: seul ou en équipe
 temps: 2 heures

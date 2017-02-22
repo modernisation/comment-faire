@@ -4,8 +4,8 @@ category: decouverte
 link: decouverte
 title: Observer ses usagers sur le terrain
 subtitle: S'immerger et observer pour bien comprendre votre défi de conception
-image: Mapstore_decouverte_observation
-download: Mapstore_decouverte_observation.pdf
+image: CF_outil_observation
+download: CF_outil_observation.pdf
 ---
 
 Aller sur le terrain à la rencontre des usagers est le meilleur moyen de comprendre leur contexte et leurs besoins.

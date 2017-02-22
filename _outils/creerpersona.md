@@ -4,8 +4,8 @@ category: decouverte
 link: synthese
 title: Créer ses personas
 subtitle: Incarner ses utilisateurs type 
-image: mapstore_decouverte_personas
-download: Mapstore_decouverte_personas.pdf
+image: CF_outil_persona
+download: CF_outil_persona.pdf
 
 utilisation: en équipe
 temps: une demi-journée

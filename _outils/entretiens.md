@@ -4,8 +4,8 @@ category: decouverte
 link: decouverte
 title: Rencontrer et interroger ses usagers
 subtitle: Recueillir la parole d’usagers pour comprendre leurs besoins et attentes
-image: mapstore_decouverte_entretien
-download: Mapstore_decouverte_entretien.pdf
+image: CF_outil_entretien
+download: CF_outil_entretien.pdf
 
 utilisation: en équipe
 temps: une demi-journée
