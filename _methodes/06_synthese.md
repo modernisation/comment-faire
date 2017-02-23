@@ -12,6 +12,7 @@ intro: C’est de l’analyse des observations recueillies sur le terrain que vo
 
 ### Analysez les informations recueillies
 Au fur et à mesure de vos découvertes, présentez vos résultats bruts, vos hypothèses, au groupe de travail ouvert que vous continuez à réunir. Si les travaux de recherche utilisateurs sont menés en groupe, profitez de ces réunions pour partager vos observations, confronter vos points de vue et analyser les résultats. 
+
 Identifiez les hypothèses les plus pertinentes et donnez-vous pour objectif lors des observations suivantes de les étayer ou les invalider. Choisissez la méthode d’observation la plus opportune pour y parvenir. Progressez ainsi dans votre connaissance des usagers de votre future solution.   
 
 ### Etayer les hypothèses les plus pertinentes 
@@ -21,4 +22,4 @@ Votre analyse doit vous aider à progresser dans la connaissance de vos usagers 
 Tirer les conclusions de votre travail de découverte : quels sont les préceptes qui doivent guider la conception de votre solution : quels sont les thèmes récurrents abordés par les usagers ? Qui sont les acteurs clés et comment les différents groupes d’acteurs sont connectés les uns aux autres ? (dessiner la cartographie des relations entre les acteurs). Quels sont les obstacles et freins rencontrés, ou les opportunités et leviers qui peuvent aider les usagers à atteindre leurs objectifs ? Existe-t-il de fortes oppositions : permis / interdits, normal / inhabituel, extérieur / intérieur ? Quels éléments surprenants découlent de l’analyse des observations et des entretiens ?
 
 ### Partager les résultats de votre analyse 
-Diffuser les conclusions auxquelles vous êtes parvenus afin de partager largement vos enseignements au sein de votre organisation. Trouvez des formats attrayants pour partager ce travail de documentation : exposition, carnet d’observations, blog qui vous alimentez à mesure de votre travail de recherche...
+Diffuser les conclusions auxquelles vous êtes parvenus afin de partager largement vos enseignements au sein de votre organisation. Trouvez des formats attrayants pour partager ce travail de documentation : exposition, carnet d’observations, blog que vous alimentez à mesure de votre travail de recherche...

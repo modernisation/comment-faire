@@ -16,10 +16,11 @@ Schématisez les différentes étapes accomplies par l’usager qui recourt à v
 En correspondance avec le parcours de l’usager, lister chaque canal par lequel l’usager entre en contact avec votre service au cours de son parcours. Il peut s’agir de rencontre à un guichet, d’un site internet, d’un appel téléphonique, d’un réseau social, d’un point d’accueil…
 Décrivez chaque action en interaction directe et indirecte avec l’usager
 
-### Décrivez chaque action mise en œuvre par un agent ou un service numérique pour rendre le service à l’usager. 
-Pour chaque action de l’usager et à chaque point de contact, quelles sont les tâches accomplies pour que l’interaction soit satisfaisante pour l’usager et qu’il obtienne l’information ou le service attendu ? 
+### Décrivez chaque action en interaction directe et indirecte avec l’usager 
+Décrivez chaque action mise en œuvre par un agent ou un dispositif numérique pour rendre le service à l’usager. Pour chaque action de l’usager et à chaque point de contact, quelles sont les tâches accomplies pour que l’interaction soit satisfaisante pour l’usager et qu’il obtienne l’information ou le service attendu ? 
 
 ### Décrivez les processus et les ressources qui soutiennent les actions précédemment décrites  
-Pour rendre le service à l’usager, l’agent et/ou le service numérique s’appuie sur des ressources (système d’information, base de données, formulaire) et des processus (traitement de dossiers, transfert auprès de partenaires, animation d’un site internet, ou de réseaux sociaux). Il est important que vous identifiez clairement chaque processus et ressources à mettre en œuvre en support aux activités. Ces éléments, recueillis grâce à l’expérimentation de vos prototypes auprès des parties prenantes, vous permettront de visualiser clairement les conditions de mise en œuvre du service.   
+Pour rendre le service à l’usager, l’agent et/ou le service numérique s’appuie sur des ressources (système d’information, base de données, formulaire) et des processus (traitement de dossiers, transfert auprès de partenaires, animation d’un site internet, ou de réseaux sociaux). Il est important que vous identifiez clairement chaque processus et ressources à mettre en œuvre en support aux activités. Ces éléments, recueillis grâce à l’expérimentation de vos prototypes auprès des parties prenantes, vous permettront de visualiser clairement les conditions de mise en œuvre du service.
+   
 ### Partagez le schéma obtenu pour l’affiner
 Dès que vous avez obtenu une première modélisation du fonctionnement du service, partagez-le auprès des parties prenantes de la mise en œuvre de votre solution. Leurs retours vous permettront de les associer en amont de la mise en œuvre, d’intégrer leurs remarques et ainsi préparer le déploiement de la solution. 

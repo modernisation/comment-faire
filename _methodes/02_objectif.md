@@ -6,11 +6,11 @@ title: Bien formuler son objectif
 subtitle: Déterminer un objectif pertinent pour ne jamais s’en détourner
 image: CF_demarrage_objectif
 download: CF_demarrage_objectif.pdf 
-intro: Initier un projet commence par se donner un objectif clair en réponse à un problème, à un dysfonctionnement, à un irritant. Un projet ne se mène pas seul. Il agrège une équipe, des contributeurs, des soutiens, des contradicteurs et des parties prenantes. Parvenir à une formulation claire et fédératrice des objectifs du projet est la première étape pour s’adjoindre les bonnes volontés et guider vos travaux. 
+intro: Initier un projet commence par se donner un objectif clair en réponse à un problème, à un dysfonctionnement, à un irritant. Un projet ne se mène pas seul. Il agrège une équipe, des contributeurs, des soutiens, des contradicteurs et des parties prenantes. Parvenir à une formulation claire et fédératrice des objectifs du projet est la première étape pour s’adjoindre les bonnes volontés et guider vos travaux.  
 ---
 
 ### Définissez un objectif sur la base d’un problème à résoudre
-Démarrez votre projet en énonçant clairement le problème, le dysfonctionnement ou l’irritant que vous souhaitez résoudre. Si vous n’identifiez pas de problèmes réels, interrogez-vous sérieusement sur la pertinence de lancer ce projet. Un projet débute par la volonté sincère de corriger une situation insatisfaisante, qu’elle soit subie par des usagers ou des agents publics, non par une idée préconçue de solution à apporter.  
+Démarrez votre projet en énonçant clairement le problème, le dysfonctionnement ou l’irritant que vous souhaitez résoudre. Si vous n’identifiez pas de réels problèmes, interrogez-vous sérieusement sur la pertinence de lancer ce projet. Un projet débute par la volonté sincère de corriger une situation insatisfaisante, qu’elle soit vécue par des usagers ou des agents publics, non par une idée préconçue de solution à apporter.   
 
 ### Adoptez le point de vue de l’usager
 Afin de bien circonscrire le problème auquel vous souhaitez répondre, formulez-le du point de vue de l’usager, que cet usager soit interne ou externe à l’administration. Si vous n’identifiez pas d’usagers ou de bénéficiaires dont la situation s’améliorerait une fois le problème résolu, à nouveau, interrogez-vous sérieusement sur la pertinence de lancer ce projet.  
