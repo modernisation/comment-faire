@@ -3,7 +3,7 @@ layout: principe
 additional_css: section_demarrage
 category_name: demarrage
 title: Démarrer un projet
-subtitle: Cadrer et définir son objectif pour réussir mon projet
+subtitle: Cadrer et définir son objectif pour réussir son projet
 icon: icon_demarrage
 date: '2017-03-03T14:36:31.049+00:00'
 ---
