@@ -117,8 +117,6 @@ blockquote {
  #nav-box {
   background-color: #fff;
   box-shadow: 5px;
-  margin-bottom: 4%;
-
 }
 
 #nav-box ul {
@@ -205,11 +203,8 @@ blockquote {
     z-index: 10;
 }
 
-.beta-logo {
+.beta-logo, .beta-logo a {
     text-align: center;
-}
-
-.beta-logo [role="link"]:hover, .beta-logo [role="link"]:link, .beta-logo [role="link"]:active, .beta-logo [role="link"]:visited {
     color: white;
     text-decoration: none;
 }
