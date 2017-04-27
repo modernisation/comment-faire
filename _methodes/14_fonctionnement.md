@@ -1,12 +1,25 @@
 ---
 layout: methode
 additional_css: section_experimentation
-category: experimentation
-title: Préfigurer le fonctionnement de la solution 
+title: Préfigurer le fonctionnement de la solution
 subtitle: Modéliser le fonctionnement de sa solution pour préparer sa mise en œuvre.
 image: CF_experimentation_fonctionnement
 download: CF_experimentation_fonctionnement.pdf
-intro: Vous disposez dorénavant d’un prototype robuste, proche de la solution que vous vous apprêtez à mettre en œuvre. Il vous reste à évaluer quelle conséquence cette mise en œuvre aura sur votre organisation en termes de ressources humaines, d’outils, de systèmes d’information, etc… Préfigurer le fonctionnement réel de votre solution vous permet d’identifier les changements à engager et les ressources à mobiliser pour déployer votre solution. Vous identifiez ainsi clairement chaque interaction de l’usager avec votre administration, que cette interaction soit physique et numérique. Cela permet ensuite de se pencher sur les coulisses du service rendu à l’usager et d'identifier l'organisation à mettre en œuvre et les ressources à mobiliser pour assurer le service. Sur la base de cette représentation visuelle, chaque agent peut comprendre son rôle et resituer son action dans un parcours usager complet. Le schéma ainsi obtenu vous permet aussi d’identifier les zones de risques dans le déploiement de votre solution.
+intro: Vous disposez dorénavant d’un prototype robuste, proche de la solution que
+  vous vous apprêtez à mettre en œuvre. Il vous reste à évaluer quelle conséquence
+  cette mise en œuvre aura sur votre organisation en termes de ressources humaines,
+  d’outils, de systèmes d’information, etc… Préfigurer le fonctionnement réel de votre
+  solution vous permet d’identifier les changements à engager et les ressources à
+  mobiliser pour déployer votre solution. Vous identifiez ainsi clairement chaque
+  interaction de l’usager avec votre administration, que cette interaction soit physique
+  et numérique. Cela permet ensuite de se pencher sur les coulisses du service rendu
+  à l’usager et d'identifier l'organisation à mettre en œuvre et les ressources à
+  mobiliser pour assurer le service. Sur la base de cette représentation visuelle,
+  chaque agent peut comprendre son rôle et resituer son action dans un parcours usager
+  complet. Le schéma ainsi obtenu vous permet aussi d’identifier les zones de risques
+  dans le déploiement de votre solution.
+categories: experimentation
+date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Décrivez-le parcours de l’usager 

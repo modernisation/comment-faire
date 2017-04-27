@@ -1,12 +1,17 @@
 ---
 layout: methode
 additional_css: section_experimentation
-category: experimentation
-title: Tester un prototype 
-subtitle: Collecter des retours pour améliorer une solution jusqu’à l’aboutissement d’une version robuste
+title: Tester un prototype
+subtitle: Collecter des retours pour améliorer une solution jusqu’à l’aboutissement
+  d’une version robuste
 image: CF_experimentation_test
 download: CF_experimentation_test.pdf
-intro: Un prototype vous permet de tester rapidement votre solution auprès de ses usagers et des agents qui la mettront en œuvre. En répétant ces tests, vous obtiendrez de précieux enseignements qui vous permettront de concevoir une solution qui satisfasse vos usagers et soit réaliste à mettre en œuvre.
+intro: Un prototype vous permet de tester rapidement votre solution auprès de ses
+  usagers et des agents qui la mettront en œuvre. En répétant ces tests, vous obtiendrez
+  de précieux enseignements qui vous permettront de concevoir une solution qui satisfasse
+  vos usagers et soit réaliste à mettre en œuvre.
+categories: experimentation
+date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Définissez votre protocole de test :  

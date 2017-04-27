@@ -1,12 +1,19 @@
 ---
 layout: methode
 additional_css: section_decouverte
-category: decouverte
 link: decouverte
 title: A l’écoute de ses usagers
-subtitle:  Ecouter ses usagers pour développer des solutions adaptées qui répondent à leurs attentes
+subtitle: Ecouter ses usagers pour développer des solutions adaptées qui répondent
+  à leurs attentes
 image: 
-intro: Ne préjugez pas des attentes et des comportements de vos usagers. C’est la meilleure façon de créer un dispositif, un service, une procédure ou un espace qui serait inutile et inutilisé. Rencontrer vos usagers vous permettra de vous rendre compte qu’ils ne sont pas uniformes, que leurs sociologies, leurs rythmes, leurs habitudes, leurs aptitudes, leurs besoins profonds diffèrent et que votre solution doit s’adapter à cette diversité.
+intro: Ne préjugez pas des attentes et des comportements de vos usagers. C’est la
+  meilleure façon de créer un dispositif, un service, une procédure ou un espace qui
+  serait inutile et inutilisé. Rencontrer vos usagers vous permettra de vous rendre
+  compte qu’ils ne sont pas uniformes, que leurs sociologies, leurs rythmes, leurs
+  habitudes, leurs aptitudes, leurs besoins profonds diffèrent et que votre solution
+  doit s’adapter à cette diversité.
+categories: decouverte
+date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Déterminez comment mieux connaître vos usagers

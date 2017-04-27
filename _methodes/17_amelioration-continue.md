@@ -1,12 +1,18 @@
 ---
 layout: methode
 additional_css: section_deploiement
-category: deploiement
 link: ameliorer
 title: Améliorer et adapter en continu
-subtitle: Apprendre	de l’usage réel de votre solution
+subtitle: "Apprendre\tde l’usage réel de votre solution"
 image: 
-intro: Votre service est désormais déployé et accessible à ses premiers usagers. Le travail de conception ne s’arrête pas là pour autant. Votre service s’inscrit dans un environnement social et technique qui évolue, il répond à des besoins et à des attentes eux-mêmes en permanente évolution. En conséquence, il doit être constamment évalué et développé pour s’adapter à ces nouveaux paradigmes. Il ne s’agit pas de maintenir l’existant, mais bien de l’améliorer en permanence.
+intro: Votre service est désormais déployé et accessible à ses premiers usagers. Le
+  travail de conception ne s’arrête pas là pour autant. Votre service s’inscrit dans
+  un environnement social et technique qui évolue, il répond à des besoins et à des
+  attentes eux-mêmes en permanente évolution. En conséquence, il doit être constamment
+  évalué et développé pour s’adapter à ces nouveaux paradigmes. Il ne s’agit pas de
+  maintenir l’existant, mais bien de l’améliorer en permanence.
+categories: deploiement
+date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Evaluez l’impact de votre service

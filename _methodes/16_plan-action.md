@@ -1,13 +1,19 @@
 ---
 layout: methode
 additional_css: section_deploiement
-category: deploiement
 link: deployer
 title: Préparer et suivre le déploiement
 subtitle: Avancer étape par étape vers le succès de votre solution
 image: CF_deploiement_planaction
 download: CF_deploiement_planaction.pdf
-intro: Le prototypage de votre solution vous a permis d’entrevoir son potentiel pour ses usagers, ainsi que les investissements, développements et transformations à engager pour que votre dispositif leur soit mis à disposition. Sur la base de ces éléments, vous devez désormais établir et obtenir les ressources nécessaires à votre projet et les agencer de telle sorte que votre solution soit mise en œuvre rapidement, dans un périmètre clairement défini.
+intro: Le prototypage de votre solution vous a permis d’entrevoir son potentiel pour
+  ses usagers, ainsi que les investissements, développements et transformations à
+  engager pour que votre dispositif leur soit mis à disposition. Sur la base de ces
+  éléments, vous devez désormais établir et obtenir les ressources nécessaires à votre
+  projet et les agencer de telle sorte que votre solution soit mise en œuvre rapidement,
+  dans un périmètre clairement défini.
+categories: deploiement
+date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Mobilisez les ressources nécessaires

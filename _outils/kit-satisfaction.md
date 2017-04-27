@@ -3,12 +3,12 @@ layout: outil
 link: ameliorer
 tag: satisfaction
 title: Faire une enquête de satisfaction
-subtitle: Réaliser et analyser vos enquêtes de satisfaction 
+subtitle: Réaliser et analyser vos enquêtes de satisfaction
 image: kit_satisfaction
 download: http://www.modernisation.gouv.fr/sites/default/files/guide_partie_pratique.pdf
-
-intro : Pour être de qualité, les enquêtes de satisfaction doivent répondre à une méthodologie rigoureuse mais aussi susciter l’envie d’y répondre.
-
+intro: Pour être de qualité, les enquêtes de satisfaction doivent répondre à une méthodologie
+  rigoureuse mais aussi susciter l’envie d’y répondre.
+date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Avant de démarrer 

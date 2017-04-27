@@ -1,13 +1,18 @@
 ---
 layout: methode
 additional_css: section_decouverte
-category: decouverte
 link: synthese
 title: Tirer des enseignements de vos découvertes
 subtitle: Rendre opérationnelle la connaissance acquise sur ses usagers
 image: CF_decouverte_synthese
 download: CF_decouverte_synthese.pdf
-intro: C’est de l’analyse des observations recueillies sur le terrain que vous obtiendrez des pistes prometteuses pour vous orienter dans la conception de votre solution. La connaissance de vos usagers vous permettra d’affiner la compréhension de leurs besoins et de leur comportement. Analysez les résultats de vos recherches auprès des usagers, tirez-en des conclusions opérationnelles et partagez-les largement.
+intro: C’est de l’analyse des observations recueillies sur le terrain que vous obtiendrez
+  des pistes prometteuses pour vous orienter dans la conception de votre solution.
+  La connaissance de vos usagers vous permettra d’affiner la compréhension de leurs
+  besoins et de leur comportement. Analysez les résultats de vos recherches auprès
+  des usagers, tirez-en des conclusions opérationnelles et partagez-les largement.
+categories: decouverte
+date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Analysez les informations recueillies

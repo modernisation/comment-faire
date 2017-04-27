@@ -1,12 +1,18 @@
 ---
 layout: methode
 additional_css: section_demarrage
-category: demarrage
 title: Bien formuler son objectif
 subtitle: Déterminer un objectif pertinent pour ne jamais s’en détourner
 image: CF_demarrage_objectif
-download: CF_demarrage_objectif.pdf 
-intro: Initier un projet commence par se donner un objectif clair en réponse à un problème, à un dysfonctionnement, à un irritant. Un projet ne se mène pas seul. Il agrège une équipe, des contributeurs, des soutiens, des contradicteurs et des parties prenantes. Parvenir à une formulation claire et fédératrice des objectifs du projet est la première étape pour s’adjoindre les bonnes volontés et guider vos travaux.  
+download: CF_demarrage_objectif.pdf
+intro: Initier un projet commence par se donner un objectif clair en réponse à un
+  problème, à un dysfonctionnement, à un irritant. Un projet ne se mène pas seul.
+  Il agrège une équipe, des contributeurs, des soutiens, des contradicteurs et des
+  parties prenantes. Parvenir à une formulation claire et fédératrice des objectifs
+  du projet est la première étape pour s’adjoindre les bonnes volontés et guider vos
+  travaux.
+categories: demarrage
+date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Définissez un objectif sur la base d’un problème à résoudre

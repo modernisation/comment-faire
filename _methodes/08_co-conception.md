@@ -1,11 +1,16 @@
 ---
 layout: methode
 additional_css: section_conception
-category: conception
-title: Concevoir avec ses usagers 
+title: Concevoir avec ses usagers
 subtitle: Impliquer ses usagers pour concevoir des solutions adaptées à leurs besoins
 image: 
-intro: Quoi de plus pertinent pour respecter les attentes et les besoins des bénéficiaires finaux d’un service que de les associer à la phase de conception ? Impliquer vos usagers dans la conception gage de la pertinence de votre solution. Cela permet aussi de fédérer différents acteurs aux intérêts divergents autour du bénéfice de l’usager.
+intro: Quoi de plus pertinent pour respecter les attentes et les besoins des bénéficiaires
+  finaux d’un service que de les associer à la phase de conception ? Impliquer vos
+  usagers dans la conception gage de la pertinence de votre solution. Cela permet
+  aussi de fédérer différents acteurs aux intérêts divergents autour du bénéfice de
+  l’usager.
+categories: conception
+date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Quel(le)s usagers recruter ? 

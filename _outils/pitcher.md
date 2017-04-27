@@ -1,17 +1,21 @@
 ---
 layout: outil
-category: deploiement
 link: deployer
 title: Raconter la solution pour fédérer
 subtitle: Bien présenter les objectifs et enjeux de votre pour projet pour convaincre
 image: 
 download: 
-
 utilisation: seul ou en équipe
 temps: 2 heures
-
-
-intro: Mettre en œuvre un nouveau service, un nouvel espace, de nouveaux processus, ou encore améliorer l’existant présuppose souvent d’opérer des transformations dans une organisation et/ou de mobiliser des ressources nouvelles. Immanquablement, ces changements soulèvent de l’adhésion et de l’enthousiasme, et plus sûrement encore, des incompréhensions, des résistances ou a minima du scepticisme. A vous de faire pencher la balance du bon côté et de fédérer autour de votre solution les acteurs clés dans la réussite de votre projet.
+intro: Mettre en œuvre un nouveau service, un nouvel espace, de nouveaux processus,
+  ou encore améliorer l’existant présuppose souvent d’opérer des transformations dans
+  une organisation et/ou de mobiliser des ressources nouvelles. Immanquablement, ces
+  changements soulèvent de l’adhésion et de l’enthousiasme, et plus sûrement encore,
+  des incompréhensions, des résistances ou a minima du scepticisme. A vous de faire
+  pencher la balance du bon côté et de fédérer autour de votre solution les acteurs
+  clés dans la réussite de votre projet.
+categories: deploiement
+date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Préparez votre argumentaire : 

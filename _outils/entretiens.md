@@ -1,17 +1,19 @@
 ---
 layout: outil
-category: decouverte
 link: decouverte
 title: Rencontrer et interroger ses usagers
 subtitle: Recueillir la parole d’usagers pour comprendre leurs besoins et attentes
 image: CF_outil_entretien
 download: CF_outil_entretien.pdf
-
 utilisation: en équipe
 temps: une demi-journée
-
-intro: En amont d’un projet, les entretiens exploratoires interviennent principalement pour recueillir la parole d’usagers de manière relativement ouverte sur une thématique prédéfinie. Cela vous permettra d’apprendre ce qu’ils pensent du dispositif que vous souhaitez améliorer, ou de comprendre leur environnement, leurs difficultés et leurs besoins si votre projet vise la conception d’un nouveau service.
-
+intro: En amont d’un projet, les entretiens exploratoires interviennent principalement
+  pour recueillir la parole d’usagers de manière relativement ouverte sur une thématique
+  prédéfinie. Cela vous permettra d’apprendre ce qu’ils pensent du dispositif que
+  vous souhaitez améliorer, ou de comprendre leur environnement, leurs difficultés
+  et leurs besoins si votre projet vise la conception d’un nouveau service.
+categories: decouverte
+date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Un questionnement orienté laissant place à la spontanéité

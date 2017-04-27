@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: "/about/"
 ---
 
 Ceci est une page ayant pour titre {{ page.title }}
