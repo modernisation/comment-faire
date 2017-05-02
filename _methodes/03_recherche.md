@@ -9,8 +9,7 @@ intro: Si vous êtes confrontés à un problème, il y a fort à parier que d’
   sont aussi. On ne part jamais de rien. Mobilisez les connaissances existantes, soyez
   curieux, explorez les réponses apportées par d’autres à des problèmes similaires,
   inspirez-vous d’autres initiatives, regardez comment ils abordent le sujet.
-categories: demarrage
-date: '2017-04-27T16:07:14.973+00:00'
+category: demarrage
 ---
 
 ### Organisez un groupe de travail ouvert 

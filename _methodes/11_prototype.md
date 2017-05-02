@@ -14,8 +14,7 @@ intro: Comment expérimenter ? En concevant des prototypes qui aident à préfi
   d’améliorer votre solution. Vous permettez aussi aux parties prenantes du service
   de se projeter concrètement dans son fonctionnement et d’anticiper ses conditions
   de mises en œuvre.
-categories: experimentation
-date: '2017-04-27T16:07:14.973+00:00'
+category: experimentation
 ---
 
 ### Prototyper une solution : 

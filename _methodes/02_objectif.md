@@ -11,8 +11,7 @@ intro: Initier un projet commence par se donner un objectif clair en réponse à
   parties prenantes. Parvenir à une formulation claire et fédératrice des objectifs
   du projet est la première étape pour s’adjoindre les bonnes volontés et guider vos
   travaux.
-categories: demarrage
-date: '2017-04-27T16:07:14.973+00:00'
+category: demarrage
 ---
 
 ### Définissez un objectif sur la base d’un problème à résoudre

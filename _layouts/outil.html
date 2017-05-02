@@ -25,7 +25,10 @@ additional_css: outil
                   <h3 class="ui divider horizontal">Comment l'utiliser ?</h3>
                   <h4>{{page.utilisation}}</h4>
                   <h4>temps nécessaire : {{page.temps}}</h4>
+                  
+                  {% if page.download %}
                   <button class="ui button"><a target="_blank" href="{{ site.baseurl }}/download/outils/{{ page.download }}">Télécharger l'outil</a></button>
+                  {% endif %}
       </div>
 
       <div class="eleven wide column">

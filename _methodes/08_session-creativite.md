@@ -15,8 +15,7 @@ intro: Un atelier de créativité permet de mobiliser l’intelligence collectiv
   les meilleures d’entre elles, approfondissez et combinez-les pour concevoir votre
   solution. Laissez libre cours à l’imagination des participants, ne censurez pas
   leurs idées. Les solutions novatrices naissent souvent des idées les plus décalées.
-categories: conception
-date: '2017-04-27T16:07:14.973+00:00'
+category: conception
 ---
 
 ### Formulez votre défi créatif 

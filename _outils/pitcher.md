@@ -15,7 +15,6 @@ intro: Mettre en œuvre un nouveau service, un nouvel espace, de nouveaux proces
   pencher la balance du bon côté et de fédérer autour de votre solution les acteurs
   clés dans la réussite de votre projet.
 categories: deploiement
-date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Préparez votre argumentaire : 

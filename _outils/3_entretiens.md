@@ -13,7 +13,6 @@ intro: En amont d’un projet, les entretiens exploratoires interviennent princi
   vous souhaitez améliorer, ou de comprendre leur environnement, leurs difficultés
   et leurs besoins si votre projet vise la conception d’un nouveau service.
 categories: decouverte
-date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Un questionnement orienté laissant place à la spontanéité

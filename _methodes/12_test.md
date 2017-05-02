@@ -10,8 +10,7 @@ intro: Un prototype vous permet de tester rapidement votre solution auprès de s
   usagers et des agents qui la mettront en œuvre. En répétant ces tests, vous obtiendrez
   de précieux enseignements qui vous permettront de concevoir une solution qui satisfasse
   vos usagers et soit réaliste à mettre en œuvre.
-categories: experimentation
-date: '2017-04-27T16:07:14.973+00:00'
+category: experimentation
 ---
 
 ### Définissez votre protocole de test :  

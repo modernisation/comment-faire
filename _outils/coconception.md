@@ -3,7 +3,7 @@ layout: outil
 link: concevoir
 title: Co-concevoir avec ses usagers
 subtitle: Impliquer ses usagers pour concevoir des solutions adaptées à leurs besoins
-image: 
+image: CF_outil_coconstruction
 intro: Quoi de plus pertinent pour respecter les attentes et les besoins des bénéficiaires
   finaux d’un service que de les associer à la phase de conception ? Impliquer vos
   usagers dans la conception gage de la pertinence de votre solution. Cela permet
@@ -32,7 +32,8 @@ Tout dépend du nombre d’agents présents et de vos objectifs. Il est difficil
 Mettre dans une même pièce des agents et des usagers ne suffit pas à concevoir des solutions innovantes. La posture, le cadrage et les modalités de votre animation sont déterminants dans la réussite de l’atelier.
 Lors de la co-conception, il arrive que des agents monopolisent la parole et imposent leurs vues du fait de leur expertise. A l’inverse, si un groupe est composé d’usager pour l’essentiel, les solutions imaginées risquent de négliger les contraintes de production et d’être trop déconnectées de la réalité. Afin d’éviter les désillusions et les frustrations, l’animation doit équilibrer les plus-values des agents comme des usagers.
  
-Lors d’un atelier de co-conception entre agents et usagers, reprenez les méthodes classiques d’un atelier de créativité en y ajoutant les séquences ci-dessous :  
+Lors d’un atelier de co-conception entre agents et usagers, reprenez les méthodes classiques d’un atelier de créativité en y ajoutant les séquences ci-dessous : 
+ 
 • **Séquence expérientielle** : mettre en valeur l’expérience du service (plutôt que l’expertise)  sous forme de tests en direct, de récits d’usagers, permettant aux agents de s’approprier le point de vue de l’usager et développer leur empathie.    
 • **Séquence de divergence** : faire émerger des idées aussi nombreuses que possible. Qu’on soit agent, partenaires ou usagers, nous avons tous des idées de la solution au problème. Laissez libre cours à la génération d’idées, y compris et surtout les plus extravagantes d’entre elles. Les agents auront toutefois tendance à brider leur créativité du fait de l’assimilation des contraintes internes. Laissez donc les usagers s’exprimer et inviter les agents à endosser leur point de vue.   
 • **Séquence de convergence** : c’est lors de cette séquence que les idées qui ont émergé en phase de divergence sont instruites, documentées, étayées et enrichies.  Les connaissances des agents et des experts ont une plus-value très importante lors de cette séquence dédiée à la qualification des solutions proposées. Invitez-les à réfléchir à comment dépasser les contraintes plutôt qu’à les énumérer.  

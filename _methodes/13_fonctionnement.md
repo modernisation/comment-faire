@@ -18,8 +18,7 @@ intro: Vous disposez dorénavant d’un prototype robuste, proche de la solution
   chaque agent peut comprendre son rôle et resituer son action dans un parcours usager
   complet. Le schéma ainsi obtenu vous permet aussi d’identifier les zones de risques
   dans le déploiement de votre solution.
-categories: experimentation
-date: '2017-04-27T16:07:14.973+00:00'
+category: experimentation
 ---
 
 ### Décrivez-le parcours de l’usager 

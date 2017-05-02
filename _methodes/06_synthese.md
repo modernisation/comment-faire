@@ -11,8 +11,7 @@ intro: C’est de l’analyse des observations recueillies sur le terrain que vo
   La connaissance de vos usagers vous permettra d’affiner la compréhension de leurs
   besoins et de leur comportement. Analysez les résultats de vos recherches auprès
   des usagers, tirez-en des conclusions opérationnelles et partagez-les largement.
-categories: decouverte
-date: '2017-04-27T16:07:14.973+00:00'
+category: decouverte
 ---
 
 ### Analysez les informations recueillies

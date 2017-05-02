@@ -11,8 +11,7 @@ intro: Votre service est désormais déployé et accessible à ses premiers usag
   attentes eux-mêmes en permanente évolution. En conséquence, il doit être constamment
   évalué et développé pour s’adapter à ces nouveaux paradigmes. Il ne s’agit pas de
   maintenir l’existant, mais bien de l’améliorer en permanence.
-categories: deploiement
-date: '2017-04-27T16:07:14.973+00:00'
+category: deploiement
 ---
 
 ### Evaluez l’impact de votre service

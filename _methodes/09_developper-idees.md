@@ -1,7 +1,7 @@
 ---
 layout: methode
 additional_css: section_conception
-title: Approfondir les idées de solution les plus prometteuses
+title: Approfondir les premières idées de solution
 subtitle: Passer d'une idée à un concept de solution
 image: CF_conception_idee
 download: CF_conception_idee.pdf
@@ -10,8 +10,7 @@ intro: Grace aux ateliers de co-conception que vous avez organisés, vous dispos
   Dès lors qu’elles seront approfondies, vous disposerez d’un véritable concept de
   solution, assorti d’un récit pour le présenter et recueillir les observations de
   tous les acteurs de votre future solution.
-categories: conception
-date: '2017-04-27T16:07:14.973+00:00'
+category: conception
 ---
 
 ### Elaborez le scénario d’usage de votre solution 

@@ -12,8 +12,7 @@ intro: Ne préjugez pas des attentes et des comportements de vos usagers. C’es
   compte qu’ils ne sont pas uniformes, que leurs sociologies, leurs rythmes, leurs
   habitudes, leurs aptitudes, leurs besoins profonds diffèrent et que votre solution
   doit s’adapter à cette diversité.
-categories: decouverte
-date: '2017-04-27T16:07:14.973+00:00'
+category: decouverte
 ---
 
 ### Déterminez comment mieux connaître vos usagers

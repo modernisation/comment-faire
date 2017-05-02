@@ -12,8 +12,7 @@ intro: Le prototypage de votre solution vous a permis d’entrevoir son potentie
   éléments, vous devez désormais établir et obtenir les ressources nécessaires à votre
   projet et les agencer de telle sorte que votre solution soit mise en œuvre rapidement,
   dans un périmètre clairement défini.
-categories: deploiement
-date: '2017-04-27T16:07:14.973+00:00'
+category: deploiement
 ---
 
 ### Mobilisez les ressources nécessaires
