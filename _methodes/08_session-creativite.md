@@ -1,6 +1,7 @@
 ---
 layout: methode
 additional_css: section_conception
+link: concevoir 
 title: Animer une session de créativité
 subtitle: Mobiliser l’intelligence collective pour des trouver des idées de solutions
   innovantes

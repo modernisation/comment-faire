@@ -1,7 +1,7 @@
 ---
-layout: methode
-additional_css: section_conception
-title: Concevoir avec ses usagers
+layout: outil
+link: concevoir
+title: Co-concevoir avec ses usagers
 subtitle: Impliquer ses usagers pour concevoir des solutions adaptées à leurs besoins
 image: 
 intro: Quoi de plus pertinent pour respecter les attentes et les besoins des bénéficiaires
@@ -9,8 +9,8 @@ intro: Quoi de plus pertinent pour respecter les attentes et les besoins des bé
   usagers dans la conception gage de la pertinence de votre solution. Cela permet
   aussi de fédérer différents acteurs aux intérêts divergents autour du bénéfice de
   l’usager.
+download: 
 categories: conception
-date: '2017-04-27T16:07:14.973+00:00'
 ---
 
 ### Quel(le)s usagers recruter ? 
