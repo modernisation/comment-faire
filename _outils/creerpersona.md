@@ -4,7 +4,7 @@ link: synthese
 title: Créer ses personas
 subtitle: Incarner ses utilisateurs type
 image: CF_outil_persona
-download: CF_outil_persona.pdf
+download: "/uploads/2017/05/03/CF_outil_creerpersona.pdf"
 utilisation: en équipe
 temps: une demi-journée
 intro: Les personas sont des personnages fictifs représentant des groupes d’usagers
