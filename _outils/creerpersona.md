@@ -14,7 +14,6 @@ intro: Les personas sont des personnages fictifs représentant des groupes d’u
   de ne jamais perdre de vue les aptitudes et les objectifs des personnes auxquelles
   s’adresse votre service (même en leur absence).
 categories: decouverte
-date: '2017-03-03T14:36:31.049+00:00'
 ---
 
 
