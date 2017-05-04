@@ -5,7 +5,7 @@ title: Faire l'expérience d'un service
 subtitle: Se mettre dans les pas de l’usager
 intro: Une des meilleures manières d’adopter la vision des usagers est de vous mettre littéralement dans leurs pas et de faire vous-mêmes l’expérience du service ou du dispositif quand cela est possible. Cette immersion vise à adopter le point de vue de l’usager en situation. Cela vous permettra de vous rendre compte de la fluidité du parcours pour un néophyte - conditions d’accueil, orientation, clarté du vocabulaire utilisé dans la démarche et par les agents, etc 
 image: 
-download: CF_outil_immersion.pdf
+download: "/assets/CF_outil_immersion.pdf"
 categories: decouverte
 ---
 
