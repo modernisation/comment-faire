@@ -68,52 +68,43 @@
 }
 
 #nav-box .demarrage {
-  color: #FE7826;
+  color: #f39327;
  }
 
- /* #nav-box .demarrage {
-  color: #FE7826;
-  padding-top: 4em;
-  background-image: url(/mapstore/img/icons/icon_pen.png);
-  background-repeat: no-repeat;
-  background-size: initial;
-  background-position-x: center;
- } */
-
 #nav-box li a.demarrage:hover{
-  border-bottom: 5px solid #FE7826;
+  border-bottom: 5px solid #f39327;
  }
 
 #nav-box .decouverte {
-  color: #EE2D56;
+  color: #ea5b2a;
  }
 
 #nav-box li a.decouverte:hover{
-  border-bottom: 5px solid #EE2D56;
+  border-bottom: 5px solid #ea5b2a;
  }
 
 #nav-box .conception {
-  color: #821f7a;
+  color: #e73c5a;
  }
 
 #nav-box li a.conception:hover{
-  border-bottom: 5px solid #821f7a;
+  border-bottom: 5px solid #e73c5a;
  }
 
  #nav-box .experimentation {
-  color: #499dec;
+  color: #495ea8;
 }
 
 #nav-box li a.experimentation:hover{
-  border-bottom: 5px solid #499dec;
+  border-bottom: 5px solid #495ea8;
  }
 
  #nav-box .deploiement {
-  color: #09B7B2;
+  color: #36acbb;
  }
 
 #nav-box li a.deploiement:hover{
-  border-bottom: 5px solid #09B7B2;
+  border-bottom: 5px solid #36acbb;
  }
 
 #nav-box .off {
